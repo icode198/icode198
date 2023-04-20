@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome to my GitHub page</h1>
 
-I love coding! I am a ***frontend-focused full-stack web development ninja*** looking for exciting opportunities as a full-stack web developer! I hold a degree in Software Engineering and enjoy using my creativity to solve problems.
+I love coding! I am a ***frontend-focused full-stack web development ninja*** looking for exciting opportunities as a full-stack web developer! I hold a degree in Information Technology and enjoy using my creativity to solve problems.
 
 I am exploring new challenges in an excellent company committed to top-quality products!
 
