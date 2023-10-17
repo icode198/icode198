@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome to my GitHub page</h1>
 
-I love coding! I am a ***full-stack web & mobile development ninja*** looking for exciting opportunities as a full-stack developer! I hold a degree in Information Technology and enjoy using my creativity to solve problems.
+I love coding! I am a ***full-stack web & mobile development ninja*** looking for exciting opportunities as a full-stack developer! I hold a degree in Computer Science and enjoy using my creativity to solve problems.
 
 I am exploring new challenges in an excellent company committed to top-quality products!
 
